@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Code Pro Light'), local('SourceCodePro-Light'), url(/assets/fonts/leqv3v-yTsJNC7nFznSMqUBls_1aQwi4AfipSOlE3SU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Code Pro'), local('SourceCodePro-Regular'), url(/assets/fonts/mrl8jkM18OlOQN8JLgasD1zCdIATDt8zXO3QNtzVeJ8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Source Code Pro Medium'), local('SourceCodePro-Medium'), url(/assets/fonts/leqv3v-yTsJNC7nFznSMqdgxThF69EFTxeh70dQtJtE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Source Sans Pro Light Italic'), local('SourceSansPro-LightItalic'), url(/assets/fonts/fpTVHK8qsXbIeTHTrnQH6I48KljrVa8Zcyi9xGGohEU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Source Sans Pro Italic'), local('SourceSansPro-Italic'), url(/assets/fonts/M2Jd71oPJhLKp0zdtTvoM6xot8ENfkYez2Lz7rcrw70.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold Italic'), local('SourceSansPro-SemiBoldItalic'), url(/assets/fonts/fpTVHK8qsXbIeTHTrnQH6KjMMkbXdLGS8FpAnMJn5J0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(/assets/fonts/toadOcfmlt9b38dHJxOBGEBls_1aQwi4AfipSOlE3SU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'), url(/assets/fonts/ODelI1aHBYDBqgeIAH2zlFzCdIATDt8zXO3QNtzVeJ8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'), url(/assets/fonts/toadOcfmlt9b38dHJxOBGGvd-IutAbwf5FQ8ZpuI2w4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Serif Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Serif Pro'), local('SourceSerifPro-Regular'), url(/assets/fonts/CeUM4np2c42DV49nanp55WdjwOOpWxWrsXXkZJyNRnI.ttf) format('truetype');
+}
